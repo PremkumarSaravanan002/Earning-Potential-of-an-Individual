@@ -1,15 +1,15 @@
 # Earning-Potential-of-an-Individual
-**Earning Potential Prediction using Machine Learning:**
+**Earning Potential Prediction using Deep Learning:**
 
-This is a data mining project that predicts the earning potential of individuals using three different machine learning algorithms: **Recurrent Neural Networks (RNN), Gated Recurrent Units (GRU), and Artificial Neural Networks (ANN)**. The project was developed by [Premkumar S](https://github.com/PremkumarSaravanan002), [Viswa Vengata Baalan M](https://github.com/vishwabaalan07/), and [Uma Maheswari G](https://github.com/uma-giriraj).
+This is a data mining project that predicts the earning potential of individuals using three different deep learning algorithms: **Recurrent Neural Networks (RNN), Gated Recurrent Units (GRU), and Artificial Neural Networks (ANN)**. The project was developed by [Premkumar S](https://github.com/PremkumarSaravanan002), [Viswa Vengata Baalan M](https://github.com/vishwabaalan07/), and [Uma Maheswari G](https://github.com/uma-giriraj).
 
 **Dataset:**
 
 The dataset used in this project is the [Adult Income dataset](https://archive.ics.uci.edu/ml/datasets/adult), which contains information about individuals' demographic, education, and work-related attributes. The dataset was preprocessed using Python and the Pandas library.
 
-**Machine Learning Models:**
+**Deep Learning Models:**
 
-We developed three different machine learning models for this project:
+We developed three different deep learning models for this project:
 
 1. **Recurrent Neural Networks (RNN)**: A type of neural network that can handle sequential data.
 
@@ -25,7 +25,7 @@ We evaluated the performance of our models using several metrics, including accu
 
 **Usage:**
 
-To use our code, you can clone this repository and run the ANN.py, RNN.py, GRU.py script. The script will preprocess the dataset, train the machine learning models, and evaluate their performance. 
+To use our code, you can clone this repository and run the ANN.ipynb, RNN.ipynb, GRU.ipynb script. The script will preprocess the dataset, train the deep learning models, and evaluate their performance. 
 
 **Contributing:**
 
